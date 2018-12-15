@@ -7,6 +7,7 @@ The study provides the length-weight relations (LWR) of fish species from the Ce
 For the calculation study necessary FSA and rfishbase may be installed with
 
 install.packages("FSA")
+
 install.packages("rfishbase")
 
 You may need to have R Tools installed on your system to install the development version from GitHub. See the instructions for (R Tools for Windows or R Tools for Mac OS X).
