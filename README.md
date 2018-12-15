@@ -13,4 +13,4 @@ install.packages("rfishbase")
 You may need to have R Tools installed on your system to install the development version from GitHub. See the instructions for (R Tools for Windows or R Tools for Mac OS X).
 
 # Questions / Comments / Problems
-We welcome any feedback, questions or bug reports on the page.
+We welcome any feedback, questions or bug reports on the page. 
