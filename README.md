@@ -10,6 +10,12 @@ install.packages("FSA")
 
 install.packages("rfishbase")
 
+For testing the data you must copy all files to one folder, also don't forget change your working directory with 
+
+getwd()
+
+setwd()
+
 You may need to have R Tools installed on your system to install the development version from GitHub. See the instructions for (R Tools for Windows or R Tools for Mac OS X).
 
 # Questions / Comments / Problems
